@@ -24,6 +24,14 @@ Generate a new key pair:
 python keygen.py 
 ```
 
+Migrate an old private key to a new one:
+
+
+```sh
+python migrate.py
+```
+
+Enter your old Base64-encoded private key, and you will get a new one.
 
 ## Contributing
 
